@@ -29,4 +29,4 @@ Here is an example of a structure for a website that you can draw inspiration fr
 3. Start to put your ideas into code, giving your website structure and content. Use semantic HTML
    whenever possible.
 
-Congratulations! 🎉 You created your first own website!!
+Congratulations! 🎉 You created your first own website!
